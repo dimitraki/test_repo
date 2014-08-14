@@ -1,6 +1,6 @@
 <?php
 
 $array = ["Stratos","Dimitra","Rullez"];
-echo $array[0];
+echo $array[1];
 
 ?>
